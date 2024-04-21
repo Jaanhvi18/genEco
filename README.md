@@ -1,5 +1,3 @@
----
-
 # GenEco - Responsible Business Practices through AI
 
 ## Overview
@@ -73,5 +71,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 - UCLA LA Hacks 24 for the opportunity to develop this project.
 - All third-party libraries and frameworks used in the development of **GenEco**.
-
----
