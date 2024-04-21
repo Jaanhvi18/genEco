@@ -28,8 +28,8 @@
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/geneco.git
-   cd geneco
+   git clone [https://github.com/yourusername/geneco.git](https://github.com/Jaanhvi18/genEco.git)
+   cd app
    ```
 2. **Install dependencies**
    ```bash
