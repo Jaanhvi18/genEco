@@ -17,13 +17,14 @@
 - **UI/UX Designs**: [View Designs on Figma](https://www.figma.com/file/jVrVJaUBJZsmNAQOXHVXWq/GenEco?type=design&node-id=0%3A1&mode=design&t=bjOxGlpU4B79GLro-1)
 - **Development Mode**: [Access Dev Mode on Figma](https://www.figma.com/file/jVrVJaUBJZsmNAQOXHVXWq/GenEco?type=design&node-id=0%3A1&mode=dev&t=bjOxGlpU4B79GLro-1)
 - **Youtube Link**: [Access Youtube Demo Link](https://youtu.be/fLTtcYxWkiw)
+- **Ideation**: [Google Docs Link](https://docs.google.com/document/d/1CgE6-VtN0gMLCUjNd7XT5yuw6goQHTMyJWQOKBoLmfs/edit?usp=sharing)
 ## Getting Started
 
 ### Prerequisites
 - Node.js
 - npm or Yarn
 - Access to cloud platforms (AWS, Google Cloud, or Azure)
-- Firebase account for authentication processes
+- ML models
 
 ### Installation
 1. **Clone the repository**
@@ -61,9 +62,10 @@
 - [NVIDIA AI Enterprise on OCI](https://www.nvidia.com/en-us/)
 - [HPE's AI-Native Architecture](https://www.hpe.com/us/en/newsroom/press-release/2023/11/hewlett-packard-enterprise-fuels-business-transformation-with-new-ai-native-architecture-and-hybrid-cloud-solutions.html)
 - [Infosys on AWS](https://aws.amazon.com/partners/infosys/)
+- [Wu, Carole-Jean et al. “Sustainable AI: Environmental Implications, Challenges and Opportunities.”](https://www.researchgate.net/publication/355843251_Sustainable_AI_Environmental_Implications_Challenges_and_Opportunities)
+- [Energy and Carbon Considerations of Fine-Tuning BERT](https://aclanthology.org/2023.findings-emnlp.607/)
+- [CodeCarbon](https://codecarbon.io/#howitwork)
 
-## Contributing
-Contributions to **GenEco** are welcome! Please review the contribution guidelines in CONTRIBUTING.md before submitting pull requests.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
